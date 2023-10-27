@@ -6,6 +6,7 @@ public class Earth {
         int ageHuman = 1000;
         float Difference = (float) (ageEarth / ageHuman);
         System.out.println("В " + Difference + " раз, вселенная старше людей");
+        // Проверка гита
 
 
     }
