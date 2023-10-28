@@ -7,6 +7,6 @@ public class Earth {
         double Difference = ageEarth / ageHuman;
         System.out.println("Возраст вселенной " + ageEarth + " лет");
         System.out.println("Возраст человека, как вида " + ageEarth + " лет");
-        System.out.println("В " + Difference + " раз, вселенная старше людей");
+        System.out.println("В " + Difference + " раз,вселенная старше людей");
     }
 }
