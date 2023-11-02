@@ -1,5 +1,3 @@
-package org.example;
-
 public class Earth {
     public static void main(String[] args) {
         double ageEarth = 13000000000d;
